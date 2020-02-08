@@ -10,7 +10,7 @@
 4. 表示された自然数の素因数を入力していく
 5. Perfect!と表示されたらOKです
 
-## Prime_factorization.jl
+## Prime_factorization.jl の使い方
 1. juliaの環境を整える
 2. Prime_factorization.jl で実行
 3. 素因数分解したい数字を入力
